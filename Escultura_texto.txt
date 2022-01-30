@@ -1,0 +1,13 @@
+dim 250 250 250
+putellipsoid 100 100 100 74 1 74 0.8 0.8 0.8 1.0
+cutellipsoid 100 100 100 69 1 69
+putellipsoid 100 100 100 66 1 66 1.0 1.0 1.0 1.0
+putellipsoid 100 100 100 63 1 63 0.8 0.8 0.8 1.0
+putellipsoid 100 100 100 60 1 60 0.7 0.7 0.7 1.0
+cutellipsoid 100 100 100 55 20 55
+putsphere 100 100 100 40 1.0 1.0 0.6 1.0
+putellipsoid 100 100 100 40 38 40 1.0 1.0 0.2 1.0
+putellipsoid 100 100 100 40 34 40 1.0 1.0 0.6 1.0
+putellipsoid 100 100 100 40 20 40 1.0 1.0 0.8 1.0
+putellipsoid 100 100 100 37 40 37 1.0 1.0 0.0 1.0
+
